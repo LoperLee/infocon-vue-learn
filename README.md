@@ -1,24 +1,14 @@
 # infocon-vue-learn
 
-## Project setup
-```
-npm install
-```
+해당 저장소는 VueJS 공부를 위한 저장소 입니다.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 1번째 과제
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> src/components/Counter.vue
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* 설명
+    * 해당 컴포넌트는 카운트를 올리는 기능을 가지고 있습니다.
+* 요구사항
+    * 버튼추가 - 카운트가 +되는 기능이 아닌 -되는 기능을 추가하세요.
+* 추가 요구사항
+    * 버튼추가 - 카운트를 초기값으로 되돌리는 기능을 구현하세요.
